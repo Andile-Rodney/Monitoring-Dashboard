@@ -1,4 +1,4 @@
 # Monitoring-Dashboard
 
-### data control
-## Sync.Allowed
+### Sync.dataControl
+### Sync.Allowed
